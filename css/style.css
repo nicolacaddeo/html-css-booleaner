@@ -25,6 +25,10 @@ h1 {
     font-family: 'Lato', sans-serif;
 }
 
+#data {
+    font-size: 13px;
+}
+
 .gray {
     color: rgb(115, 115, 115);
 }
