@@ -53,6 +53,14 @@ section>p {
     margin: 20px 0px 20px 0px;
 }
 
+table {
+    border-spacing: 0px;
+}
+
+.big-column {
+    width: 50%;
+}
+
 .lightblue-head {
     background-color: rgb(26, 163, 255);
 }
