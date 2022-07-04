@@ -21,6 +21,8 @@ header {
     margin-left: 15px;
 }
 
+/* FINE STILE HEADER */
+
 /* STILE MAIN */
 h1 {
     font-size: 50px;
@@ -48,6 +50,8 @@ section>p {
     margin-bottom: 20px;
 }
 
+/* FINE STILE MAIN */
+
 /* STILE TABELLA */
 #tabella {
     margin: 20px 0px 20px 0px;
@@ -68,3 +72,11 @@ table {
 .lightblue-background {
     background-color: rgb(179, 224, 255);
 }
+
+/* FINE STILE TABELLA */
+
+/* STILE FOOTER */
+
+
+
+/* FINE STILE FOOTER */
