@@ -7,6 +7,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* STILE HEADER */
 header {
     height: 165px;
     background-image: url('../img/pattern.png');
@@ -20,6 +21,7 @@ header {
     margin-left: 15px;
 }
 
+/* STILE MAIN */
 h1 {
     font-size: 50px;
     font-family: 'Lato', sans-serif;
@@ -46,6 +48,7 @@ section>p {
     margin-bottom: 20px;
 }
 
+/* STILE TABELLA */
 #tabella {
     margin: 20px 0px 20px 0px;
 }
