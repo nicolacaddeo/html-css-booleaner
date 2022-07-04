@@ -49,3 +49,11 @@ section>p {
 #tabella {
     margin: 20px 0px 20px 0px;
 }
+
+.lightblue-head {
+    background-color: rgb(26, 163, 255);
+}
+
+.lightblue-background {
+    background-color: rgb(179, 224, 255);
+}
