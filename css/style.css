@@ -24,3 +24,11 @@ h1 {
     font-size: 50px;
     font-family: 'Lato', sans-serif;
 }
+
+.gray {
+    color: rgb(115, 115, 115);
+}
+
+.light-blue {
+    color: rgb(26, 163, 255);
+}
