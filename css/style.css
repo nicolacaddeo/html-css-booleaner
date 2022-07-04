@@ -36,3 +36,7 @@ h1 {
 .light-blue {
     color: rgb(26, 163, 255);
 }
+
+section>p {
+    margin-top: 20px;
+}
