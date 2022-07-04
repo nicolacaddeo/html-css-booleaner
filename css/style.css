@@ -12,6 +12,7 @@ header {
     height: 165px;
     background-image: url('../img/pattern.png');
     background-color: rgb(26, 163, 255);
+    margin-left: 0px;
 }
 
 #logo {
@@ -24,6 +25,10 @@ header {
 /* FINE STILE HEADER */
 
 /* STILE MAIN */
+main {
+    margin-left: 3px;
+}
+
 h1 {
     font-size: 50px;
     font-family: 'Lato', sans-serif;
@@ -79,7 +84,7 @@ table {
 footer>div {
     width: 200px;
     height: 200px;
-    margin: 10px 0px 10px 5px;
+    margin: 10px 0px 10px 3px;
     color: white;
     font-size: 20px;
 }
