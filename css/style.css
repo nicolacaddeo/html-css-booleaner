@@ -76,7 +76,20 @@ table {
 /* FINE STILE TABELLA */
 
 /* STILE FOOTER */
+footer>div {
+    width: 200px;
+    height: 200px;
+    margin: 10px 0px 10px 5px;
+    color: white;
+    font-size: 20px;
+}
 
+.monitor-pic {
+    background-image: url('../img/monitor.jpg');
+}
 
+.graph-pic {
+    background-image: url('../img/graph.jpg');
+}
 
 /* FINE STILE FOOTER */
